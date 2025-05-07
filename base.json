@@ -1,0 +1,246 @@
+{
+  "basics": {
+    "name": "Harsh Pundhir",
+    "label": "AI Engineer, Researcher & Educator",
+    "email": "pundhirharsh6@gmail.com",
+    "phone": "+31 633262602",
+    "summary": "Enthusiastic engineer with a passion for AI, five years’ teaching experience and a knack for turning ideas into working technical solutions.",
+    "location": {
+      "city": "Amsterdam",
+      "countryCode": "NL"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/harsh-pundhir-614629144"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/harshpundhir/harshpundhir_Projects_AI"
+      }
+    ]
+  },
+
+  "work": [
+    {
+      "name": "Vrije Universiteit Amsterdam",
+      "position": "Intern – CSV on the Web",
+      "url": "https://vu.nl",
+      "startDate": "2023-09",
+      "endDate": "2023-11",
+      "summary": "Boosted the COW tool (CSV → graph dataset) by 65 % via caching and built an interactive GUI.",
+      "highlights": [
+        "Implemented memoisation layer that cut average processing time by two‑thirds",
+        "Designed and released a user‑friendly desktop interface"
+      ]
+    },
+    {
+      "name": "LearnMore",
+      "position": "Co‑Founder",
+      "startDate": "2023-05",
+      "endDate": "Present",
+      "summary": "Building an AI‑powered instant quiz generator for teachers and universities."
+    },
+    {
+      "name": "Ace",
+      "position": "Data Scientist (Working‑Student)",
+      "url": "https://acecompany.nl",
+      "startDate": "2023-03",
+      "endDate": "Present",
+      "summary": "Developed LLM chatbots able to converse over large document sets and full SharePoint knowledge bases."
+    },
+    {
+      "name": "Enactus VU",
+      "position": "Project Manager (Part‑Time)",
+      "startDate": "2023-02",
+      "endDate": "Present",
+      "summary": "Led creation of six start‑ups and secured US $15 000 seed funding for ProdigyLab."
+    },
+    {
+      "name": "SURF (UniPartners)",
+      "position": "AI Intern",
+      "startDate": "2022-12",
+      "endDate": "2023-02",
+      "summary": "Built an AI research database covering 300+ Dutch universities; used NLP visualisations to map national AI research."
+    },
+    {
+      "name": "CueLearn Pvt Ltd",
+      "position": "JS Game Developer & Cuemath Teacher Partner",
+      "startDate": "2020-09",
+      "endDate": "2022-08",
+      "summary": "Designed 190 Java/JS games, published 10+ courses, and taught 42 students mathematics & Python."
+    },
+    {
+      "name": "Nestlé R&D India",
+      "position": "Product Development Intern",
+      "startDate": "2020-03",
+      "endDate": "2020-09",
+      "summary": "Formulated new food products, boosting sales for start‑up clients by 14.6 %."
+    },
+    {
+      "name": "T.I.M.E Academy",
+      "position": "Faculty – Physics & Mathematics (Part‑Time)",
+      "startDate": "2016-10",
+      "endDate": "2019-11",
+      "summary": "Mentored 200+ students for competitive exams; Best‑performing faculty two years running."
+    },
+    {
+      "name": "Khan Academy",
+      "position": "Content Facilitator",
+      "startDate": "2018-04",
+      "endDate": "2021-12",
+      "summary": "Prepared and tested international mathematics content."
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Vrije Universiteit Amsterdam",
+      "area": "Artificial Intelligence",
+      "studyType": "MSc",
+      "startDate": "2022-09",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Great Learning",
+      "area": "Artificial Intelligence",
+      "studyType": "PG Diploma",
+      "startDate": "2021-06",
+      "endDate": "2022-06",
+      "gpa": "9.4 / 10",
+      "courses": ["Python", "Statistics", "Supervised & Unsupervised Learning", "Deep Learning", "NLP", "Computer Vision"]
+    },
+    {
+      "institution": "NIFTEM Thanjavur (formerly IIFPT)",
+      "area": "Food Process Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2016-07",
+      "endDate": "2020-07",
+      "gpa": "8.45 / 10",
+      "courses": ["Programming in C", "Engineering Statistics", "Vector Calculus", "Differential Equations"]
+    },
+    {
+      "institution": "Kendriya Vidyalaya",
+      "area": "Higher Secondary School (12th)",
+      "studyType": "CBSE",
+      "startDate": "2013-04",
+      "endDate": "2014-03",
+      "score": "84.2 %"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Course‑Project Portfolio (PG Diploma)",
+      "startDate": "2021-06",
+      "endDate": "2022-06",
+      "summary": "Five applied ML projects in manufacturing, automotive, telecom and healthcare domains.",
+      "highlights": [
+        "Semiconductor yield classifier with feature engineering & hyper‑parameter tuning",
+        "Unsupervised MPG prediction via clustering",
+        "Churn prediction using ensemble models for telecom",
+        "Medical diagnosis classifier",
+        "Sports‑talent selection through statistical learning"
+      ]
+    },
+    {
+      "name": "Colour‑Changing Food Freshness Indicator",
+      "startDate": "2019-06",
+      "endDate": "2020-01",
+      "summary": "Bachelor’s thesis: developed pH‑sensitive indicator film and extracted nano‑cellulose from banana waste."
+    },
+    {
+      "name": "App‑Based Spoilage Sensor",
+      "startDate": "2019-04",
+      "endDate": "2019-05",
+      "summary": "Android app (Java/XML) to detect spoiled meat; technology transferred to Pragathi Broilers, India."
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "Platinum Badge – PG Diploma, top 5 %",
+      "date": "2021-08",
+      "awarder": "Great Learning"
+    },
+    {
+      "title": "Best Student Award",
+      "date": "2019-05",
+      "awarder": "NIFTEM Thanjavur"
+    },
+    {
+      "title": "Merit Scholarship Holder",
+      "date": "2019-01",
+      "awarder": "NIFTEM Thanjavur"
+    },
+    {
+      "title": "Vice‑President, Cultural Club",
+      "date": "2019-03",
+      "awarder": "NIFTEM Thanjavur",
+      "summary": "Organised college fest for 2 500+ participants."
+    },
+    {
+      "title": "Best Teacher Award",
+      "date": "2017-12",
+      "awarder": "T.I.M.E Academy"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": ["Python", "C++", "C", "Java", "JavaScript", "SQL", "R"]
+    },
+    {
+      "name": "Data & AI",
+      "keywords": ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "LLM Chatbots", "Tableau"]
+    },
+    {
+      "name": "Soft Skills",
+      "keywords": ["Teaching", "Public Speaking", "Project Management", "Creative Writing", "Problem Solving"]
+    },
+    {
+      "name": "Design",
+      "keywords": ["Motion Graphics", "Graphic Design"]
+    }
+  ],
+
+  "languages": [
+    { "language": "English", "fluency": "Professional (IELTS 7.5)" },
+    { "language": "Hindi", "fluency": "Native" },
+    { "language": "Tamil", "fluency": "Conversational" }
+  ],
+
+  "interests": [
+    { "name": "Content Creation" },
+    { "name": "Reading" },
+    { "name": "Sports" },
+    { "name": "Motion & Graphic Design" },
+    { "name": "Programming" }
+  ],
+
+  "volunteer": [
+    {
+      "organization": "Teach For India",
+      "position": "Volunteer Tutor",
+      "startDate": "2019-01",
+      "endDate": "Present",
+      "summary": "Online tutoring in English and technical subjects for rural students."
+    },
+    {
+      "organization": "Red Cross Society",
+      "position": "Member",
+      "startDate": "2017-01",
+      "endDate": "Present",
+      "summary": "Volunteered at five blood‑donation drives."
+    },
+    {
+      "organization": "National Service Scheme (NSS)",
+      "position": "Volunteer",
+      "startDate": "2016-07",
+      "endDate": "2020-07",
+      "summary": "Village‑adoption programme and community clean‑up campaigns."
+    }
+  ]
+}
