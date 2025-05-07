@@ -38,7 +38,6 @@
       "name": "LearnMore",
       "position": "Co‑Founder",
       "startDate": "2023-05",
-      "endDate": "Present",
       "summary": "Building an AI‑powered instant quiz generator for teachers and universities."
     },
     {
@@ -46,14 +45,12 @@
       "position": "Data Scientist (Working‑Student)",
       "url": "https://acecompany.nl",
       "startDate": "2023-03",
-      "endDate": "Present",
       "summary": "Developed LLM chatbots able to converse over large document sets and full SharePoint knowledge bases."
     },
     {
       "name": "Enactus VU",
       "position": "Project Manager (Part‑Time)",
       "startDate": "2023-02",
-      "endDate": "Present",
       "summary": "Led creation of six start‑ups and secured US $15 000 seed funding for ProdigyLab."
     },
     {
@@ -98,8 +95,7 @@
       "institution": "Vrije Universiteit Amsterdam",
       "area": "Artificial Intelligence",
       "studyType": "MSc",
-      "startDate": "2022-09",
-      "endDate": "Present"
+      "startDate": "2022-09"
     },
     {
       "institution": "Great Learning",
@@ -108,7 +104,14 @@
       "startDate": "2021-06",
       "endDate": "2022-06",
       "gpa": "9.4 / 10",
-      "courses": ["Python", "Statistics", "Supervised & Unsupervised Learning", "Deep Learning", "NLP", "Computer Vision"]
+      "courses": [
+        "Python",
+        "Statistics",
+        "Supervised & Unsupervised Learning",
+        "Deep Learning",
+        "NLP",
+        "Computer Vision"
+      ]
     },
     {
       "institution": "NIFTEM Thanjavur (formerly IIFPT)",
@@ -117,7 +120,12 @@
       "startDate": "2016-07",
       "endDate": "2020-07",
       "gpa": "8.45 / 10",
-      "courses": ["Programming in C", "Engineering Statistics", "Vector Calculus", "Differential Equations"]
+      "courses": [
+        "Programming in C",
+        "Engineering Statistics",
+        "Vector Calculus",
+        "Differential Equations"
+      ]
     },
     {
       "institution": "Kendriya Vidyalaya",
@@ -225,14 +233,12 @@
       "organization": "Teach For India",
       "position": "Volunteer Tutor",
       "startDate": "2019-01",
-      "endDate": "Present",
       "summary": "Online tutoring in English and technical subjects for rural students."
     },
     {
       "organization": "Red Cross Society",
       "position": "Member",
       "startDate": "2017-01",
-      "endDate": "Present",
       "summary": "Volunteered at five blood‑donation drives."
     },
     {
